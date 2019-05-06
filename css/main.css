@@ -11,6 +11,9 @@ header{
 body {
 	background-color: #3195E5;
 }
+main {
+	padding-bottom: 30px;
+}
 .footer {
     position: fixed;
     left: 0;
@@ -33,6 +36,22 @@ h3{
 	font-style: italic;
 }
 img {
-	float: left;
 	padding: 0 3.125%;
+}
+article {
+	padding: .5em 0;
+}
+article img {
+	float: right;
+	max-width: 30%;
+	min-width: 100px;
+	margin: .5em 0 1em 1em;
+	padding-bottom: 30px;
+}
+article h2 {
+	padding-top: 0;
+}
+article h3 {
+	font-size: 105%;
+	padding-bottom: .25em;
 }
