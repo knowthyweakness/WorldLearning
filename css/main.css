@@ -37,6 +37,7 @@ h3{
 }
 img {
 	padding: 0 3.125%;
+	max-width: 50%;
 }
 article {
 	padding: .5em 0;
@@ -55,3 +56,4 @@ article h3 {
 	font-size: 105%;
 	padding-bottom: .25em;
 }
+/* DEVELOPER Tanvir Hossain, IS117-004, Spring 2019 */
